@@ -1,0 +1,24 @@
+-----------------------------------
+Oct 05 07:35:16 Running Command: [python3 test.py]
+Oct 05 07:35:16 hello world
+Oct 05 07:35:16 Traceback (most recent call last):
+Oct 05 07:35:16   File "/root/bash-scripts/test.py", line 2, in <module>
+Oct 05 07:35:16     abc
+Oct 05 07:35:16 NameError: name 'abc' is not defined. Did you mean: 'abs'?
+-----------------------------------
+Oct 05 07:35:31 Running Command: [python3 test.py]
+Oct 05 07:35:31 hello world
+-----------------------------------
+Oct 05 07:35:45 Running Command: [python3 test.py]
+Oct 05 07:35:45 hello world
+Oct 05 07:35:45 Traceback (most recent call last):
+Oct 05 07:35:45   File "/root/bash-scripts/test.py", line 2, in <module>
+Oct 05 07:35:45     erww
+Oct 05 07:35:45 NameError: name 'erww' is not defined
+-----------------------------------
+Oct 05 07:38:37 Running Command: [python3 test.py]
+Oct 05 07:38:37 hello world
+Oct 05 07:38:37 Traceback (most recent call last):
+Oct 05 07:38:37   File "/root/bash-scripts/test.py", line 2, in <module>
+Oct 05 07:38:37     erww
+Oct 05 07:38:37 NameError: name 'erww' is not defined
